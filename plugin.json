@@ -1,0 +1,11 @@
+{
+  "name": "SIP2 Manager",
+  "slug": "sip2",
+  "version": "1.0.0",
+  "description": "Interface to start and stop the SIP2 server for Self-Checkout and RFID antennas.",
+  "entry": "index.php",
+  "hooks": [
+    "config_menu"
+  ],
+  "config_bridge": true
+}

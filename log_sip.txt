@@ -1,0 +1,32 @@
+23 09 2026 21:19:25|Socket created|
+23 09 2026 21:19:25|Socket bound to 127.0.0.1:5060|
+23 09 2026 21:19:25|Listening on socket|
+23 09 2026 21:23:21|Socket created|
+23 09 2026 21:23:21|Socket bound to 127.0.0.1:5060|
+23 09 2026 21:23:21|Listening on socket|
+23 09 2026 21:23:24|Client connected: 127.0.0.1:57163|
+23 09 2026 21:24:09|Client connected: 127.0.0.1:51942|
+23 09 2026 21:24:56|Client connected: 127.0.0.1:60150|
+23 09 2026 21:29:11|Client connected: 127.0.0.1:63537|
+23 09 2026 21:29:12|Client connected: 127.0.0.1:63544|
+23 09 2026 21:29:12|Client connected: 127.0.0.1:63545|
+23 09 2026 21:29:12|Client connected: 127.0.0.1:63546|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63547|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63548|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63552|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63553|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63554|
+23 09 2026 21:29:13|Client connected: 127.0.0.1:63555|
+23 09 2026 21:29:14|Client connected: 127.0.0.1:63556|
+23 09 2026 21:29:14|Client connected: 127.0.0.1:63557|
+23 09 2026 21:29:14|Client connected: 127.0.0.1:63558|
+23 09 2026 21:35:29|Client connected: 127.0.0.1:57930|
+23 09 2026 21:44:43|Client connected: 127.0.0.1:55360|
+23 09 2026 21:44:56|Client connected: 127.0.0.1:64154|
+23 09 2026 21:45:05|Client connected: 127.0.0.1:64168|
+23 09 2026 21:45:15|Client connected: 127.0.0.1:64180|
+23 09 2026 21:51:00|Client connected: 127.0.0.1:57713|
+23 09 2026 21:51:10|Client connected: 127.0.0.1:51992|
+23 09 2026 21:52:18|Client connected: 127.0.0.1:50060|
+23 09 2026 21:54:14|Client connected: 127.0.0.1:54178|
+23 09 2026 21:54:31|Client connected: 127.0.0.1:65188|

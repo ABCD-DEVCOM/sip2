@@ -1,0 +1,5 @@
+{
+    "ip_sip_server": "127.0.0.1",
+    "port_sip_server": 5060,
+    "port_sip_antena": 5061
+}
